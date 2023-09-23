@@ -1,15 +1,6 @@
 ## WriteUp  
  A blog website used to add blogs to and show blogs from json server built with React, JavaScript, and Tailwind CSS.
 
-### Project Demo
-
-<!-- View live website [WriteUp](http://tasfiaislam.github.io/react-blog) -->
-
-1. Home
-![Home](screenshots/Home.png)
----
-1. Blog detail page
-![Blog Detail](screenshots/Detail.png)
 
 ### Features
 - List all blogs
